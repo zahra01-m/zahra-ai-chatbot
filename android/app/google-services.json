@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "197535798478",
+    "project_id": "ai-chatbot-32ca1",
+    "storage_bucket": "ai-chatbot-32ca1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197535798478:android:ce9ee9da805aaf559eec9f",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197535798478-f305kcb3dgjj1982arhvs32himha6uom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzeZpcxswLa2xB0OXd7wURk2Al3X3Ljw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197535798478-f305kcb3dgjj1982arhvs32himha6uom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197535798478-rpduj8qb3ckrfvkju7oi3bfmrtbfo5kd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zahrachatbot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197535798478:android:763891a4f8f935f89eec9f",
+        "android_client_info": {
+          "package_name": "com.example.zahrachatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197535798478-2liraa6ipms86nql5n9lgrlrboj3b4e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zahrachatbot",
+            "certificate_hash": "b50c789eade47f9223ec6841fb6ccae513bf4a3c"
+          }
+        },
+        {
+          "client_id": "197535798478-f305kcb3dgjj1982arhvs32himha6uom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzeZpcxswLa2xB0OXd7wURk2Al3X3Ljw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197535798478-f305kcb3dgjj1982arhvs32himha6uom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197535798478-rpduj8qb3ckrfvkju7oi3bfmrtbfo5kd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zahrachatbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
